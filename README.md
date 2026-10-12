@@ -1,5 +1,5 @@
 
-<h1 id="-hi-im-Luqq-a-programming-enthusiast---"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"> <b>Hi, I'm Jeferson Ferreira</b></h1>
+<h1 id="-hi-im-Luqq-a-programming-enthusiast---"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25"> <b>Hi, I'm Luqq</b></h1>
 
 <p>⚡ code to heaven.</p>
 
